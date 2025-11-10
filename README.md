@@ -1,4 +1,4 @@
-# Batch 5 - Solidity Smart Contracts Collection
+# Solidity Smart Contracts Collection
 
 This repository contains three different iterations/versions of Solidity smart contract projects, all built using the Foundry development framework. The projects focus on implementing ERC20 tokens and vault contracts for managing token deposits and rewards.
 
